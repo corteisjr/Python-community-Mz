@@ -1,10 +1,14 @@
 # Python-community-Mz
-Comunidade python Moz
+Repositório publico com materias de estudo para a comunidade 
 
 # Regras
--Respeito acima de tudo
--Se percebe algo ajuda ! 
--Proibido spam enganoso
+- Respeito acima de tudo.
+- Se percebe algo ajuda.
+- Proibido spam enganoso.
 
-# Trilha
-Python basico
+# Cursos
+##Python basico
+https://solyd.com.br/treinamentos/python-basico
+
+
+
